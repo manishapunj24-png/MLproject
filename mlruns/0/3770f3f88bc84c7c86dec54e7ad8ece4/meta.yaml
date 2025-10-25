@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Hp/OneDrive/Desktop/MLproject/mlruns/0/3770f3f88bc84c7c86dec54e7ad8ece4/artifacts
+end_time: 1761384135887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3770f3f88bc84c7c86dec54e7ad8ece4
+run_name: dazzling-ant-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761384127831
+status: 3
+tags: []
+user_id: root
