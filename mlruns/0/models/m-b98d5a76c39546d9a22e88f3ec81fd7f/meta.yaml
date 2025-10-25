@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Hp/OneDrive/Desktop/MLproject/mlruns/0/models/m-b98d5a76c39546d9a22e88f3ec81fd7f/artifacts
+creation_timestamp: 1761381933778
+experiment_id: '0'
+last_updated_timestamp: 1761381943057
+model_id: m-b98d5a76c39546d9a22e88f3ec81fd7f
+model_type: null
+name: model
+source_run_id: f2e74b65b3db4edf82bb9f6cc00780ef
+status: 2
+status_message: null
